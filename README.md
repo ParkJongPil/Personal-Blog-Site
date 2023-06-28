@@ -1,5 +1,9 @@
 # 개인 블로그 사이트
 
+![1](https://github.com/ParkJongPil/Personal-Blog-Site_/assets/102267949/e6db25c7-af7e-403e-a271-7d3ba9fb86e9)
+
+![2](https://github.com/ParkJongPil/Personal-Blog-Site_/assets/102267949/0d42fc7e-fc5b-4081-9c6b-b50c8bd96fd0)
+
 <hr/>
 <h2>링크 주소</h2>
 
